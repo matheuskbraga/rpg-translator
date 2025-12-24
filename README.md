@@ -78,4 +78,4 @@ Contribuições são bem-vindas! Sinta-se à vontade para abrir uma _issue_ para
 
 ---
 
-Desenvolvido por **[Seu Nome]**
+Desenvolvido por **Matheus Braga**
